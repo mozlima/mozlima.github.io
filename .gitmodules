@@ -1,0 +1,3 @@
+[submodule "redirectbypasser"]
+	path = redirectbypasser
+	url = git://github.com/mozlima/redirectbypasser.git
